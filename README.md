@@ -1,1 +1,47 @@
 # product-verification
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Verification - SWM-CT-R1-2403B1</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        .verified {
+            color: green;
+            font-weight: bold;
+        }
+        .not-verified {
+            color: red;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Product Verification</h1>
+        <p>Serial Number: <strong>SWM-CT-R1-2403B1</strong></p>
+        <p>Status: <span class="verified">Verified</span></p>
+        <p><strong>Product:</strong> Sea Wave Monitoring System</p>
+        <p><strong>Manufactured by:</strong> PT. Artha Triloka Indonesia</p>
+        <p><strong>Origin:</strong> Indonesia</p>
+        <p><strong>Issue Date:</strong> 15 December 2024</p>
+        <p>This product is officially verified and registered.</p>
+    </div>
+</body>
+</html>
